@@ -1,0 +1,17 @@
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\doviz_app\doviz_app\bin\Debug\net8.0-windows\doviz_app.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\doviz_app\doviz_app\bin\Debug\net8.0-windows\doviz_app.deps.json
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\doviz_app\doviz_app\bin\Debug\net8.0-windows\doviz_app.runtimeconfig.json
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\doviz_app\doviz_app\bin\Debug\net8.0-windows\doviz_app.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\doviz_app\doviz_app\bin\Debug\net8.0-windows\doviz_app.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\doviz_app\doviz_app\obj\Debug\net8.0-windows\doviz_app.Form1.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\doviz_app\doviz_app\obj\Debug\net8.0-windows\doviz_app.Properties.Resources.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\doviz_app\doviz_app\obj\Debug\net8.0-windows\doviz_app.csproj.GenerateResource.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\doviz_app\doviz_app\obj\Debug\net8.0-windows\doviz_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\doviz_app\doviz_app\obj\Debug\net8.0-windows\doviz_app.AssemblyInfoInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\doviz_app\doviz_app\obj\Debug\net8.0-windows\doviz_app.AssemblyInfo.cs
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\doviz_app\doviz_app\obj\Debug\net8.0-windows\doviz_app.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\doviz_app\doviz_app\obj\Debug\net8.0-windows\doviz_app.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\doviz_app\doviz_app\obj\Debug\net8.0-windows\refint\doviz_app.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\doviz_app\doviz_app\obj\Debug\net8.0-windows\doviz_app.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\doviz_app\doviz_app\obj\Debug\net8.0-windows\doviz_app.genruntimeconfig.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\doviz_app\doviz_app\obj\Debug\net8.0-windows\ref\doviz_app.dll
